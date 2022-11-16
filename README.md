@@ -9,7 +9,6 @@ Click here for <a href="https://demo.pnath.in" target="_blank">live demo</a>.
 ## Installation
 
 ```
-git clone https://github.com/trutoro/react-material-sidebar-starter.git
 cd react-material-sidebar-starter
 ```
 
